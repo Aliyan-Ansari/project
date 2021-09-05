@@ -1,0 +1,32 @@
+#up{
+    margin-left: 5px;
+}
+#signInForm{
+width: 500px;
+}
+h1{
+    /* justify-content: flex-end;
+    display: flex; */
+    font-weight: 700;
+}
+.ownTeam{
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+.card{
+    border-color: rgb(163, 151, 151);
+}
+.card p{
+    margin: 6px;
+}
+.legend{ 
+    float: none; 
+    padding: inherit;
+    font-size: 1.2em !important;
+    font-weight: bold !important;
+}
+.fieldset{
+    border: solid 1px #000 !important;
+
+}
